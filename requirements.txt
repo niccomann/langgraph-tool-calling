@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain_community
+langchain_core
+langgraph
+langchain_openai
+langchain_experimental
+openai
+pyppeteer
+matplotlib
+pandas
+sqlalchemy_schemadisplay
